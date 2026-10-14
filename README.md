@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SarpAygen&layout=compact&langs_count=8&theme=nightowl" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SarpAygen&show_icons=true&theme=nightowl&count_private=true" alt="Stats" height="165" />
+</div>
